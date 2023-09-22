@@ -1,0 +1,38 @@
+.roundButton{
+    padding: 10px 14px;
+    background-color: blue;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    font-synthesis: normal;
+    width: fit-content;
+}
+.rightButtonContainer{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 65px;
+    padding : 0 16px;
+    border-bottom: solid 1px #e5e5e5;
+    background-color: white;
+    position: fixed;
+    top:0;
+    width: 358px;
+}
+.circleButton{
+    padding: 0 auto;
+    background-color:  #a3adb3;
+    border-radius: 22.5px;
+    color: #fff;
+    width: 44px; height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
