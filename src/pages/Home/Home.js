@@ -45,7 +45,7 @@ const Home = () => {
               <img
                 className={styles.cardImage}
                 src={HeaderCard}
-                alt="온라인 수수료 평생 무료 혜택"
+                alt="오늘만~ 온라인 수수료 평생 무료 혜택"
               />
             </div>
             <div className={styles.cardTitle}>

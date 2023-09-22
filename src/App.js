@@ -15,7 +15,7 @@ function App() {
   <Route path="/global" element={<GlobalStock/>}/>
   <Route path="*" element={<div>페이지를 찾을 수 없습니다. </div>}/>
 
-  </Routes> 
+  </Routes>
   </BrowserRouter>
   </div>);
 };
